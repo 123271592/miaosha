@@ -1,0 +1,17 @@
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dataobject/UserDO.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/service/model/UserModel.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/service/UserService.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dataobject/UserPasswordDO.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/App.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/error/EnumBusinessError.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/controller/UserController.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/error/CommonError.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/controller/BaseController.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/controller/viewobject/UserVO.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/error/BusinessException.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dataobject/UserDOExample.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dao/UserDOMapper.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dataobject/UserPasswordDOExample.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/response/CommonReturnType.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/service/impl/UserServiceImpl.java
+/Users/chehao/Documents/project03/haoche/miaosha/src/main/java/com/miaosha/project/dao/UserPasswordDOMapper.java
