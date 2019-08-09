@@ -1,0 +1,28 @@
+
+create database hmall;
+
+
+create table user_info(
+	id int,
+	name varchar(255),
+	gender char,
+	age int,
+	telephone char,
+	register_mode char,
+	third_part_id int
+);
+
+
+
+create table user_password(
+	id int,
+	encrpt_password varchar(255),
+	user_id int
+);
+
+
+insert into user_info values(1,'chehao','M',29,'9','a','1');
+insert into user_info values(2,'chedam','W',32,'8','m','1');
+
+insert into user_password values(1,'123','1');
+insert into user_password values(2,'123','2');
